@@ -1,6 +1,8 @@
 # Dockerfile for MaYoR
 __Source:__ http://www.mayor.hu/index.php?page=portal&f=download
+
 __License (original):__ http://www.mayor.hu/LICENSE.txt
+
 __License (current):__ Everything is permitted, which should be permitted according to the [original license](http://www.mayor.hu/LICENSE.txt). For further questions, please get in touch with [me](mailto:lezsakdomi1@gmail.com). So you should be fair, or [pm](https://fb.com/lezsakdomi) [me](https://github.com/lezsakdomi).
 
 ## About
