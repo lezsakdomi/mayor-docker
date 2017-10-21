@@ -12,6 +12,7 @@ Please note, that the first developer of these scripts is (as of writing) attend
 
 ## Usage
 In short:
+
 0. You need first install the essential _GNU_ build tools (`make` and `m4`, as of writing), and the [Docker](https://www.docker.com/) containerization software. Good luck upon the steps of getting started in using source-distributed microservices!
 1. Then do a `make build` (optionally a `make tag` (aka `make install`))
 2. And for running the software, `make run`
